@@ -1,0 +1,27 @@
+/* AboutUs.css */
+.about-us-section {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    padding: 40px 0;
+    margin-bottom: 20px;
+    color: white;
+    border-radius: 10px;
+}
+
+.about-us-heading {
+    color: gold;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.about-us-text {
+    font-size: 1.2rem;
+    color: #fff;
+    line-height: 1.6;
+    background-color: rgba(241, 239, 204, 0.267);
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.about-us-image {
+    border-radius: 10px;
+}
